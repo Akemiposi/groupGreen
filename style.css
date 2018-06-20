@@ -9,5 +9,13 @@ h1 {
 h2 {
     border: 10px solid #881234;
     background-color: #bbb;
+<<<<<<< HEAD
 }
+=======
+    border-radius: 5px;
+  }
+    p {
+      color: red;
+    }
+>>>>>>> a9197930ab4ad4b7d22a80c1d4157ec850b7070e
 
