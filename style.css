@@ -5,17 +5,15 @@ h1 {
 .link {
 	text-decoration: none;
 }
-
-h2 {
+  h2 {
+    width: 500px;
+    padding: 10px;
     border: 10px solid #881234;
     background-color: #bbb;
-<<<<<<< HEAD
-}
-=======
     border-radius: 5px;
   }
     p {
-      color: red;
+      color: "red";
     }
->>>>>>> a9197930ab4ad4b7d22a80c1d4157ec850b7070e
+
 
